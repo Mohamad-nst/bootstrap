@@ -1,0 +1,16 @@
+div.service{
+  >div.itemservice{
+    >div{
+      box-shadow: 1px 1px 5px #212529;
+      >h1{
+        font-size: 30px;
+      }
+      >i{
+        width: 75px;
+        height: 75px;
+        line-height: 75px;
+        font-size: 30px;
+      }
+    }
+  }
+}

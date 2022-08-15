@@ -1,0 +1,21 @@
+div.contact{
+  >div.itemcontact{
+    div{
+      box-shadow: 1px 1px 3px black;
+      >i{
+        font-size: 30px;
+      }
+    }
+  }
+  div.map{
+    >div{
+      img{
+        width: 100%;
+        box-shadow: 1px 1px 3px black;
+      }
+    }
+    >div.form{;
+      box-shadow: 1px 1px 3px black;
+    }
+  }
+}
